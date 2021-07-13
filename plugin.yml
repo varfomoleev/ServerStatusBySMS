@@ -1,0 +1,6 @@
+name: ServerStatusBySMS-stable
+main: ServerStatusBySMS\Main
+version: 0.1
+api: 3.0.0
+author: IvanovDev (Дмитрий Иванов)
+website: https://ivanovdev.ru
